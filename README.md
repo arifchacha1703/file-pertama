@@ -1,1 +1,1 @@
-# file-pertama
+# file-pertama. Tahap pembelajaran
